@@ -1,0 +1,1 @@
+{"name":"Local: k","url":"/home/mr_vau/Desktop/XPSC/Week-02/k.cpp","tests":[{"id":1745351387860,"input":"4\na\naaa\nabb\npassword\n","output":"ab\nabaa\nabcb\npastsword\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mr_vau/Desktop/XPSC/Week-02/k.cpp","group":"local","local":true}
