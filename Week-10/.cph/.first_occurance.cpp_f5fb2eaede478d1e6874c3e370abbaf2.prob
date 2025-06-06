@@ -1,0 +1,1 @@
+{"name":"Local: first_occurance","url":"/home/mr_vau/Desktop/XPSC/Week-10/first_occurance.cpp","tests":[{"id":1748958583615,"input":"10 10\n1 1 2 3 4 4 5 7 7 9\n1 4 5 8 9 10 2 11 6 8","output":"0\n4\n6\n-1\n9\n-1\n2\n-1\n-1\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mr_vau/Desktop/XPSC/Week-10/first_occurance.cpp","group":"local","local":true}
